@@ -6,7 +6,7 @@
 - 🌱 Over 6 years of industry experience in Data Science
 - 👀 I’m interested in statistics, econometrics, and machine learning
 - 💼 Hands-on experience in domains: Marketing, FinTech, Financial Services, Climate, and Energy
-- 📫 You can reach me via mail at [Simran Padam](mailto:simran.padam@columbia.edu).
+- 📫 You can reach me via mail at [Simran Padam](mailto:simran.padam@columbia.edu)
 - 😄 My pronouns are She/Her
 - ⚡ Fun fact: I favor salad over pizza
 
