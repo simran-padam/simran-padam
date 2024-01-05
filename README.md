@@ -25,3 +25,4 @@
 <img src="./images/gcp.png" alt="GCP" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/databricks.png" alt="bricks" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/SQL.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+</p>
