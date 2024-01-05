@@ -1,13 +1,14 @@
 ## Hi, I'm Simran 👋
 
-### I'm a full-stack Data Scientist 
+### I'm a full-stack Data Scientist
 
-- 🌱 Over 6 years of industry experience in Data Science.
-- 👀 I’m interested in statistics, econometrics, and machine learning.
-- 💼 Hands-on experience in domains: Marketing, FinTech, Financial Services, Climate, and Energy.
+- 🎓 Statistics Graduate from Columbia University, NY
+- 🌱 Over 6 years of industry experience in Data Science
+- 👀 I’m interested in statistics, econometrics, and machine learning
+- 💼 Hands-on experience in domains: Marketing, FinTech, Financial Services, Climate, and Energy
 - 📫 You can reach me via mail at [Simran Padam](mailto:simran.padam@columbia.edu).
-- 😄 My pronouns are She/Her.
-- ⚡ Fun fact: I favor salad over pizza.
+- 😄 My pronouns are She/Her
+- ⚡ Fun fact: I favor salad over pizza
 
 <!--
 **simran-padam/simran-padam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
