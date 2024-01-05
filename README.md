@@ -1,8 +1,5 @@
 # Hi, I'm Simran 👋
 
-<!--
-**simran-padam/simran-padam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a full-stack Data Scientist 
 
 - 🌱 Over 6 years of industry experience in Data Science.
@@ -12,6 +9,9 @@ I'm a full-stack Data Scientist
 - 📫 You can reach me via mail at [Simran Padam](mailto:simran.padam@columbia.edu).
 - 😄 My pronouns are She/Her.
 - ⚡ Fun fact: I favor salad over pizza.
+- 
+<!--
+**simran-padam/simran-padam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
