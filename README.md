@@ -9,7 +9,6 @@
 - 😄 My pronouns are She/Her.
 - ⚡ Fun fact: I favor salad over pizza.
 
-![Alt text](https://raw.githubusercontent.com/aqid98/ClimatePredictionChallenges/main/Images/el-nino.jpeg)
 <!--
 **simran-padam/simran-padam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤖 I’m fascinated by MarTech and AdTech, particularly experimentations
