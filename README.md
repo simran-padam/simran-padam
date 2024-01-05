@@ -23,6 +23,7 @@
 <img src="./images/hadoop.svg" alt="Hadoop" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/airflow.png" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/db.png" alt="bricks" height="40" style="vertical-align:top; margin:4px">
+<img src="./images/spark.png" alt="bricks" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/SQL.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/scikit.png" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/R.png" alt="R" height="40" style="vertical-align:top; margin:4px">
