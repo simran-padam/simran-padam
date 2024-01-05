@@ -1,6 +1,6 @@
-# Hi, I'm Simran 👋
+## Hi, I'm Simran 👋
 
-I'm a full-stack Data Scientist 
+### I'm a full-stack Data Scientist 
 
 - 🌱 Over 6 years of industry experience in Data Science.
 - 👀 I’m interested in statistics, econometrics, and machine learning.
