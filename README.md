@@ -26,6 +26,6 @@
 <img src="./images/SQL.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/scikit.png" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/R.png" alt="R" height="40" style="vertical-align:top; margin:4px">
-<img src="./images/tableau.png" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+<img src="./images/tb.png" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
 <img src="./images/tensorflow.png" alt="TF" height="40" style="vertical-align:top; margin:4px">
 </p>
