@@ -1,0 +1,22 @@
+# Hi, I'm Simran 👋
+
+<!--
+**simran-padam/simran-padam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm a full-stack Data Scientist 
+
+- 🌱 Over 6 years of industry experience in Data Science.
+- 👀 I’m interested in statistics, econometrics, and machine learning.
+- 💼 Hands-on experience in domains: Marketing, FinTech, Financial Services, Climate, and Energy.
+- 🤖 I’m fascinated by MarTech and AdTech, particularly experimentations
+- 📫 You can reach me via mail at [Simran Padam](mailto:simran.padam@columbia.edu).
+- 😄 My pronouns are She/Her.
+- ⚡ Fun fact: I favor salad over pizza.
+
+-->
+
+## 🧰 Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" height="40" style="vertical-align:top; margin:4px">
