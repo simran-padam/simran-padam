@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Simran 
 
-### 🎯 Senior Data Scientist | 7+ Years of Experience
+### 🎯 Senior Data Scientist | 8+ Years of Experience
 
 - 🎓 Master's in Statistics from Columbia University, NY
-- 🤖 I’m passionate about product analytics, causal inference, machine learning, and LLMs
+- 🤖 I’m passionate about product analytics, causal inference, and LLMs
 - 💼 Hands-on experience across diverse industries: Tech, Retail, Banking, FinTech, Climate, and Energy
 - 📫 Feel free to reach out: [simran.padam@columbia.edu](mailto:simran.padam@columbia.edu)
 - 😄 Pronouns: She/Her
