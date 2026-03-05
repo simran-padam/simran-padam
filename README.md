@@ -28,7 +28,7 @@ Data Scientist with **8+ years of experience** specializing in ML, Experimentati
 ---
 
 ### 📫 Connect With Me
-📧 Email: simran.padam@columbia.edu  
+📧 Email: sdp2158@columbia.edu  
 💼 LinkedIn: www.linkedin.com/in/simran9
 
 ---
